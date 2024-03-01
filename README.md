@@ -29,8 +29,14 @@ FlavorFusion_Hub is developed by a passionate Junior software developer about en
 
 Thank you for choosing FlavorFusion_Hub to revolutionize your restaurant's workflow!
 
+![hub_scrrenshot](https://github.com/GirlKat17/FlavorFusion_Hub/assets/125869596/c25471e5-6ab8-46a7-b07c-f9654504a7bc)
 
 
+![hun2nd](https://github.com/GirlKat17/FlavorFusion_Hub/assets/125869596/d4c19bf7-6af0-4df2-bbe8-205c1f6779b0)
+![hub3](https://github.com/GirlKat17/FlavorFusion_Hub/assets/125869596/ae8799a4-465b-44df-9bc3-24ef401b5b8f)
 
+![hub4](https://github.com/GirlKat17/FlavorFusion_Hub/assets/125869596/e911fa42-abb9-424d-a9f0-c02ec7635afc)
+
+![hub5](https://github.com/GirlKat17/FlavorFusion_Hub/assets/125869596/affcb8a8-1ab9-42c6-b045-0a5dc61d845e)
 
 
